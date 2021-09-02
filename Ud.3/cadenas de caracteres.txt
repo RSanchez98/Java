@@ -1,0 +1,8 @@
+CADENAS DE CARACTERES = STRING
+-------------------------------
+
+- Tipo de dato compuesto
+- Es lineal
+- Compuesto exclusivamente de muchas datos de tipo "char" char[]
+- Son estáticas. El tamaño no cambia desde que las creas. El
+  contenido de la cadena tampoco puede cambiar desde que la creas

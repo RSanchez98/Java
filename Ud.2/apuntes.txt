@@ -1,0 +1,5 @@
+Estructuras de Datos = Tipos de Datos Complejos
+-------------------------------------------------
+homogeneos/heterogeneos
+estaticas/dinamicas
+lineales/no lineales
