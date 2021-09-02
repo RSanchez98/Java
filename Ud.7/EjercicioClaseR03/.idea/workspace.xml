@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5af8bbf8-5902-4ef1-9708-2da76365d261" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zw8ctubS54TBEQgxA4KMqgKX1Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="EjercicioClaseR03" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5af8bbf8-5902-4ef1-9708-2da76365d261" name="Default Changelist" comment="" />
+      <created>1585738890670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585738890670</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-878" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1585747936660">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-878" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1585747936660" />
+    <state x="-904" y="105" key="FileChooserDialogImpl" timestamp="1586963913017">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-904" y="105" key="FileChooserDialogImpl/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1586963913017" />
+    <state width="1323" height="314" key="GridCell.Tab.0.bottom" timestamp="1585822182977">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="314" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1585822182977" />
+    <state width="1323" height="314" key="GridCell.Tab.0.center" timestamp="1585822182977">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="314" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1585822182977" />
+    <state width="1323" height="314" key="GridCell.Tab.0.left" timestamp="1585822182977">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="314" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1585822182977" />
+    <state width="1323" height="314" key="GridCell.Tab.0.right" timestamp="1585822182977">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="314" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1585822182977" />
+    <state x="676" y="0" width="697" height="735" maximized="true" key="dock-window-1" timestamp="1585820136873">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="676" y="0" width="697" height="735" key="dock-window-1/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1585817537074" />
+    <state x="676" y="0" width="697" height="735" maximized="true" key="dock-window-1/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1585820136873" />
+    <state x="-1301" y="0" key="new project wizard" timestamp="1586963975397">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1301" y="0" key="new project wizard/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1586963975397" />
+  </component>
+</project>
